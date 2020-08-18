@@ -1,0 +1,9 @@
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\bin\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.deps.json
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\bin\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.dll
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.csprojAssemblyReference.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.AssemblyInfoInputs.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.AssemblyInfo.cs
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\bin\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.pdb
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.dll
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Dominio\obj\Debug\netcoreapp3.1\BackendCarwashApp.Dominio.pdb

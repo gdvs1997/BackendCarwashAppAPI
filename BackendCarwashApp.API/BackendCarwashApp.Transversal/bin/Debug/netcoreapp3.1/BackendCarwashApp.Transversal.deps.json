@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BackendCarwashApp.Transversal/1.0.0": {
+        "runtime": {
+          "BackendCarwashApp.Transversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackendCarwashApp.Transversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

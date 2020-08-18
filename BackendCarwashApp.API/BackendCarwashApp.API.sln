@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.API", "BackendCarwashApp.API\BackendCarwashApp.API.csproj", "{CDFCD178-7C49-47FB-B4C9-506118154B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.Dominio", "BackendCarwashApp.Dominio\BackendCarwashApp.Dominio.csproj", "{7E3286B5-77DC-4257-B810-BC2EC54FBD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.FuenteDatos", "BackendCarwashApp.FuenteDatos\BackendCarwashApp.FuenteDatos.csproj", "{80EBA385-E107-40B9-A835-3CAFE38F839D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.Logica", "BackendCarwashApp.Logica\BackendCarwashApp.Logica.csproj", "{1E69914C-70AA-4577-B73D-EAC7D40F0588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.PersistenciaDatos", "BackendCarwashApp.PersistenciaDatos\BackendCarwashApp.PersistenciaDatos.csproj", "{8F5506EF-184A-4DBD-B033-C57758BE0EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendCarwashApp.Transversal", "BackendCarwashApp.Transversal\BackendCarwashApp.Transversal.csproj", "{E9C6E6F3-740A-4DCF-8710-3E3743C040CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFCD178-7C49-47FB-B4C9-506118154B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFCD178-7C49-47FB-B4C9-506118154B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFCD178-7C49-47FB-B4C9-506118154B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFCD178-7C49-47FB-B4C9-506118154B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3286B5-77DC-4257-B810-BC2EC54FBD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3286B5-77DC-4257-B810-BC2EC54FBD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3286B5-77DC-4257-B810-BC2EC54FBD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3286B5-77DC-4257-B810-BC2EC54FBD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EBA385-E107-40B9-A835-3CAFE38F839D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EBA385-E107-40B9-A835-3CAFE38F839D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EBA385-E107-40B9-A835-3CAFE38F839D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EBA385-E107-40B9-A835-3CAFE38F839D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E69914C-70AA-4577-B73D-EAC7D40F0588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E69914C-70AA-4577-B73D-EAC7D40F0588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E69914C-70AA-4577-B73D-EAC7D40F0588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E69914C-70AA-4577-B73D-EAC7D40F0588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5506EF-184A-4DBD-B033-C57758BE0EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5506EF-184A-4DBD-B033-C57758BE0EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5506EF-184A-4DBD-B033-C57758BE0EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5506EF-184A-4DBD-B033-C57758BE0EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C6E6F3-740A-4DCF-8710-3E3743C040CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C6E6F3-740A-4DCF-8710-3E3743C040CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C6E6F3-740A-4DCF-8710-3E3743C040CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C6E6F3-740A-4DCF-8710-3E3743C040CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {823DE4EA-E112-4404-9282-87BC6744D356}
+	EndGlobalSection
+EndGlobal

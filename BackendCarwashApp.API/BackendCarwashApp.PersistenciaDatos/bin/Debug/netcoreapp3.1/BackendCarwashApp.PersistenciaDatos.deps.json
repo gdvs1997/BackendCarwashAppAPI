@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BackendCarwashApp.PersistenciaDatos/1.0.0": {
+        "runtime": {
+          "BackendCarwashApp.PersistenciaDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackendCarwashApp.PersistenciaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

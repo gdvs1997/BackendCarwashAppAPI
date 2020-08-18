@@ -1,0 +1,427 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.API\\BackendCarwashApp.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.API\\BackendCarwashApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.API\\BackendCarwashApp.API.csproj",
+        "projectName": "BackendCarwashApp.API",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.API\\BackendCarwashApp.API.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj"
+              },
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\BackendCarwashApp.FuenteDatos.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\BackendCarwashApp.FuenteDatos.csproj"
+              },
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\BackendCarwashApp.Logica.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\BackendCarwashApp.Logica.csproj"
+              },
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj",
+        "projectName": "BackendCarwashApp.Dominio",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\BackendCarwashApp.FuenteDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\BackendCarwashApp.FuenteDatos.csproj",
+        "projectName": "BackendCarwashApp.FuenteDatos",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\BackendCarwashApp.FuenteDatos.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.FuenteDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\BackendCarwashApp.Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\BackendCarwashApp.Logica.csproj",
+        "projectName": "BackendCarwashApp.Logica",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\BackendCarwashApp.Logica.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Logica\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Dominio\\BackendCarwashApp.Dominio.csproj"
+              },
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj"
+              },
+              "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\BackendCarwashApp.Transversal.csproj": {
+                "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\BackendCarwashApp.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj",
+        "projectName": "BackendCarwashApp.PersistenciaDatos",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\BackendCarwashApp.PersistenciaDatos.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.PersistenciaDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\BackendCarwashApp.Transversal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\BackendCarwashApp.Transversal.csproj",
+        "projectName": "BackendCarwashApp.Transversal",
+        "projectPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\BackendCarwashApp.Transversal.csproj",
+        "packagesPath": "C:\\Users\\gdvs1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gdvs1\\OneDrive\\Documents\\Ceutec\\Proyecto Fase 1\\3er Periodo - Q4\\Aplicacion Movil\\Backend\\BackendCarwashApp.API\\BackendCarwashApp.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gdvs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

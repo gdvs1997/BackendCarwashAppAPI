@@ -1,0 +1,9 @@
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\bin\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.deps.json
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\bin\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.dll
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\bin\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.pdb
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.csprojAssemblyReference.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.AssemblyInfoInputs.cache
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.AssemblyInfo.cs
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.dll
+C:\Users\gdvs1\OneDrive\Documents\Ceutec\Proyecto Fase 1\3er Periodo - Q4\Aplicacion Movil\Backend\BackendCarwashApp.API\BackendCarwashApp.Transversal\obj\Debug\netcoreapp3.1\BackendCarwashApp.Transversal.pdb
