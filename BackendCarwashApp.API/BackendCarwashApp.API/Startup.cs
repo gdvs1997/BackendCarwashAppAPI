@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using BackendCarwashApp.Dominio.Models;
 using BackendCarwashApp.FuenteDatos.Contexts;
 using BackendCarwashApp.Logica.Login;
+using BackendCarwashApp.PersistenciaDatos.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,7 +34,7 @@ namespace BackendCarwashApp.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddScoped<IRepository, Repository<CarwashAppDbContext>>();
+            services.AddScoped<IRepository, Repository<CarwashAppDbContext>>();
             services.AddScoped<ILoginLogica, LoginLogica>();
 
             services.AddDbContext<CarwashAppDbContext>(options =>
